@@ -50,14 +50,24 @@ header {
     border-radius: 40px;
 }
 
-.text-box {
+.title-box {
     display: flex;
     justify-content: space-around;
     font-size: 200%;
     margin-top: 0.5%;
 }
 
-.project-text {
+.text-box {
+    display: flex;
+    justify-content: space-around;
+}
+
+.PinkGoose-text {
+    font-size: 150%;
+    width: 600px;
+}
+
+.Mastermind-text {
     font-size: 150%;
     width: 600px;
 }
