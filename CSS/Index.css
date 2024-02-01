@@ -38,7 +38,15 @@ header {
     margin-top: 8%;
 }
 
+.hallo-box {
+    background-color: #3C4255; 
+}
+
 .hallo {
+    font-size: 500%;
+}
+
+.ik-ben-david {
     font-size: 500%;
 }
 
@@ -46,5 +54,6 @@ header {
     display: flex;
     align-items: center;
     flex-direction: column;
+    margin-top: 1%;
     font-size: 300%;
 }

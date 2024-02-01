@@ -30,4 +30,46 @@ header {
 .logo {
     width: 5%;
     height: auto;
+}   
+
+.about {
+    font-size: 500%;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.introduction-container {
+    display: flex;
+}
+
+.introduction {
+    margin-top: 15%;
+    font-size: 150%;
+    padding: 1% 5%;
+}
+
+.introduction-text {
+    font-size: 150%;
+    max-width: 950px;
+    margin-left: 5%;
+}
+
+.image {
+    margin-left: 20%;
+}
+
+.pfp {  
+    width: 300px;
+    height: auto;
+    border-radius: 10%;
+    border: 3px solid grey;
+}
+
+.kwaliteiten {
+    font-size: 150%;
+    padding: 5% 5%;
 }

@@ -31,3 +31,76 @@ header {
     width: 5%;
     height: auto;
 }
+
+.Contact-Me {
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+    font-size: 300%;
+}
+
+.contact-me-container-row-1 {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 2.5%;
+}
+
+.school-email {
+    display: flex;
+    flex-direction: column;
+    background-color: #3A506B;
+    padding: 1% 1%;
+    border-radius: 20px;
+    border: 1px solid #ffffff;
+    margin-top: 20px;
+    gap: 15px;
+    width: 15%;
+    height: auto;
+}
+
+.telefoon-nummer {
+    display: flex;
+    flex-direction: column;
+    background-color: #3A506B;
+    padding: 1% 1%;
+    border-radius: 20px;
+    border: 1px solid #ffffff;
+    margin-top: 20px;
+    gap: 15px;
+    width: 15%;
+    height: auto;
+}
+
+.contact-me-container-row-2 {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 2.5%;
+}
+
+.personele-email {
+    display: flex;
+    flex-direction: column;
+    background-color: #3A506B;
+    padding: 1% 1%;
+    border-radius: 20px;
+    border: 1px solid #ffffff;
+    margin-top: 20px;
+    gap: 15px;
+    width: 15%;
+    height: auto;
+}
+
+.github {
+    display: flex;
+    flex-direction: column;
+    background-color: #3A506B;
+    padding: 1% 1%;
+    border-radius: 20px;
+    border: 1px solid #ffffff;
+    margin-top: 20px;
+    gap: 15px;
+    width: 15%;
+    height: auto;
+}
